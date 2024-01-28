@@ -1,0 +1,84 @@
+{
+  "set_date": [
+    {
+      "new_date": "2026-01-01"
+    },
+    {
+      "new_date": "2030-01-01"
+    },
+    {
+      "new_date": "1999-01-01"
+    },
+    {
+      "new_date": "2024-01-01"
+    }
+  ],
+  "advance_date": [
+    {
+      "number": "366"
+    },
+    {
+      "number": "366"
+    }
+  ],
+  "buy": [
+    {
+      "product_name": "orange",
+      "quantity": "100",
+      "buy_price": "1.00",
+      "expiration_date": "2025-01-01"
+    },
+    {
+      "product_name": "banana",
+      "quantity": "100",
+      "buy_price": "2.00",
+      "expiration_date": "2026-01-01"
+    },
+    {
+      "product_name": "apple",
+      "quantity": "100",
+      "buy_price": "3.00",
+      "expiration_date": "2027-01-01"
+    },
+    {
+      "product_name": "expired_product",
+      "quantity": "100",
+      "buy_price": "3.00",
+      "expiration_date": "1900-01-01"
+    }
+  ],
+  "sell": [
+    {
+      "product_name": "orange",
+      "quantity": "50",
+      "sales_price": "10.00"
+    },
+    {
+      "product_name": "banana",
+      "quantity": "100000",
+      "sales_price": "20.00"
+    },
+    {
+      "product_name": "apple",
+      "quantity": "10",
+      "sales_price": "30.00"
+    },
+    {
+      "product_name": "test_product_not_in_inventory",
+      "quantity": "50",
+      "sales_price": "10.00"
+    }
+  ],
+  "report_revenue": [
+    {
+      "date1": "2024-01-01",
+      "date2": "2025-01-01"
+    }
+  ],
+  "report_profit": [
+    {
+      "date1": "2024-01-01",
+      "date2": "2025-01-01"
+    }
+  ]
+}

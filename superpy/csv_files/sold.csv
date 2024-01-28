@@ -1,0 +1,4 @@
+Id,sales_date,product_name,quantity,sales_price
+1,2024-01-01,orange,50,10.00
+2,2024-01-01,banana,100,20.00
+3,2024-01-01,apple,10,30.00

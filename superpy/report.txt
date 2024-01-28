@@ -1,0 +1,2 @@
+verschil test_function -ad, -sd met uitvoer in main.py (geen table)
+excell-files bewegen niet mee

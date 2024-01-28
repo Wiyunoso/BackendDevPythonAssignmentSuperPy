@@ -1,0 +1,4 @@
+Id,buy_date,product_name,quantity,buy_price,expiration_date
+1,2024-01-01,orange,100,1.00,2025-01-01
+2,2024-01-01,banana,100,2.00,2026-01-01
+3,2024-01-01,apple,100,3.00,2027-01-01
